@@ -10,7 +10,7 @@ Clone this repository and run:
 
 ```bash
 python main.py
-
+```
 ## 🧪 How to Run the Experiments
 
 For each test case:
