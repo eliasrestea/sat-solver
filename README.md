@@ -39,5 +39,5 @@ The following CNF formulas were used in the experiment:
 - `((P|Q)&(-Q)&((-Q)|R)&(-P)&(-R)&((-P)|(-R)))`
 - `((A|B|C)&((-A)|D)&((-B)|E)&(-D)&(-E)&(-C))`
 - `((M|N)&(-M)&(-N)&((-M)|(-N))&((-M)|N))`
-- `((A|B)&(-A)&(B))`
+- `((A|B)&(-A)&B)`
 - `((A|B)&((-A)|C)&(C|B))`
